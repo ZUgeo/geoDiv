@@ -1,1 +1,1 @@
-# ZU Geographische Deiversität
+## ZU Geographische Diversität
